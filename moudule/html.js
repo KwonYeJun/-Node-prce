@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+module.exports = 
+`<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -10,12 +11,8 @@
   
 
 
-
-<script>
-
-  console.log("hellow");
-
-</script>
+<h1>나는 서버다!</h1>
+<h1>나는 서버일까?</h1>
 
 </body>
-</html>
+</html>`;
